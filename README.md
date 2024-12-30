@@ -38,7 +38,7 @@
 1. 确保设备连接并设置正确的串口通信参数。
 2. 运行程序：
    ```bash
-   python your_script_name.py
+   python pump_calibrate.py
    ```
 3. 主界面将显示以下主要功能按钮：
    - **获取数据**：通过串口获取实时泵的数据。
